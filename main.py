@@ -8,5 +8,5 @@ print("mass moni")
 print("Hi its Preethi")
 print("Niketana")
 print("Malli")
-print("js")
+
 print("elakkiya check")
