@@ -1,13 +1,6 @@
 print("Nan dhan da diver uhh")
 print("hello")
 print("monika")
-
-print("hello")
-print("monika")
-print("Nan dhan da diver uhh")
-print("hello")
-print("monika")
-
 print("hello")
 print("Elakkiya")
 print("ram//")
@@ -18,12 +11,3 @@ print("Preethi")
 print("Niketana")
 print("Preethi")
 print("Niketana")
-print("mass moni")
-print("Hi its Preethi")
-
-
-print("Niketana")
-print("Preethi")
-print("Niketana")
-
-print("Malli")
